@@ -103,3 +103,23 @@ Cada PDF tiene dos Markdown al lado:
 - La información gráfica completa se conserva en el PDF. Se añadieron descripciones editoriales para esquemas seleccionados; no hay una reconstrucción textual exhaustiva de todas las flechas de todos los diagramas. Para resolver un ejercicio dependiente de esos detalles, consultar la página enlazada.
 - La extracción matemática puede representar corchetes semánticos como `J...K`, o la flecha de actualización como `7→`. En esos casos consultar el original; no interpretarlos como identificadores o números literales.
 - Los resúmenes son derivados de estudio, no una fe de erratas oficial ni garantía sobre el alcance del próximo examen. El resumen del modelo registra la ambigüedad de su regla de aprobación.
+
+## Guías resueltas
+
+Soluciones de estudio elaboradas a partir de las transcripciones. Incluyen todos los ejercicios e incisos de las cuatro guías, con código o pseudocódigo, trazas, justificaciones y supuestos de progreso. No son soluciones oficiales. Las posibles erratas se distinguen del código literal del enunciado.
+
+| Guía | Ejercicios | Soluciones |
+| --- | --- | --- |
+| Modelo de cómputo y exclusión mutua | 15 | [guia-01-modelo-de-computo-y-exclusion-mutua_resuelto.md](practicas-de-ejercicios/guia-01-modelo-de-computo-y-exclusion-mutua_resuelto.md) |
+| Semáforos | 12 | [guia-02-semaforos_resuelto.md](practicas-de-ejercicios/guia-02-semaforos_resuelto.md) |
+| Monitores | 10 | [guia-03-monitores_resuelto.md](practicas-de-ejercicios/guia-03-monitores_resuelto.md) |
+| Estructuras de datos y lock-free | 11 | [guia-04-estructuras-de-datos-y-lock-free_resuelto.md](practicas-de-ejercicios/guia-04-estructuras-de-datos-y-lock-free_resuelto.md) |
+
+El modelo de parcial se conserva como material separado; no forma parte de estas cuatro guías. Para estudiar sin ver respuestas, seguir usando las transcripciones y los resúmenes, que permanecen separados de las soluciones.
+
+### Verificación de las soluciones
+
+- Cobertura comprobada: 48 ejercicios, en cuatro archivos con sus incisos.
+- Intercalaciones del ejercicio 3 de la guía 1 enumeradas exhaustivamente en el modelo de lectura/escritura indicado; diagramas de 1(a–b) generados desde el mismo modelo.
+- Los nueve bloques Java completos compilan con Java 17. Se ejecutaron casos de FIFO/LIFO, espera por pila llena/vacía, pedidos de recursos FIFO e interrupción, actualización optimista concurrente, contador y los ejemplos de semáforos.
+- Una traducción ejecutable del pseudocódigo de la cola con dos contadores se probó con cuatro productores y cuatro consumidores, capacidades 1, 2 y 7, control de capacidad y 12.000 elementos por caso, sin pérdidas ni duplicados. Las pruebas complementan las justificaciones de los archivos; no son una exploración exhaustiva de todos sus protocolos.
