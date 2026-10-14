@@ -1,0 +1,152 @@
+{
+  "base_commit": "63ef3c595ef26811448117b687f5a4ab6c45c1ce",
+  "movimientos": [
+    {
+      "original": "05.0-Haskell.pdf",
+      "destino": "practicas-de-ejercicios/guia-04a-haskell-io-y-monadas.pdf",
+      "sha256": "06a8d1bf242d769e626a8f58447d7ea1a2c599d2680ded1391cf5a911bff210a",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "05-STM.pdf",
+      "destino": "practicas-de-ejercicios/guia-05-memoria-transaccional.pdf",
+      "sha256": "f91edd018523adf147763c4c552ee6c52b541bc55e7ed21fdc6d42461e1feab1",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "enunciado.pdf",
+      "destino": "practicas-de-ejercicios/guia-05a-stm-reservas-cine-york.pdf",
+      "sha256": "24e917b6d23dc4ded3164c472cff9e6e855ba9a96a7fdec6f1df5c1574b836cd",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "06-Mensaje.pdf",
+      "destino": "practicas-de-ejercicios/guia-06-comunicacion-por-mensajes.pdf",
+      "sha256": "18e0ddc25551ebc82d9284ae913bf14e8f12a302c146b75d21a49a68b8af5b10",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "Ejercicio-Mensajes.pdf",
+      "destino": "practicas-de-ejercicios/guia-06a-mensajes-plataforma-streaming.pdf",
+      "sha256": "e7bd718721ec27adb86e04f3584ab156dbc4b2aab08ed3313cc79ba5a0e55b7d",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "1P2C2026.pdf",
+      "destino": "practicas-de-ejercicios/parcial-01-2026-2c.pdf",
+      "sha256": "c631d01734e50b81c74b49bc3c0896133222f2aaebe99f20b39454dd29f0475c",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "examen_simulacro-soluciones.pdf",
+      "destino": "practicas-de-ejercicios/modelo-de-parcial-2026-2c-soluciones.pdf",
+      "sha256": "d19fae73d954b96fba05432aa76e7a093d7254addd8e3d95c5110687624fa1d4",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "apunte.pdf",
+      "destino": "clases-practicas/practica-05-memoria-transaccional-haskell.pdf",
+      "sha256": "c4e1cbc2f7e0b3fa69314d842515b31e3c6ad376f7ad97a8fc337baa8620a8df",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "clase-06.pdf",
+      "destino": "clases-practicas/practica-06-go-y-comunicacion-por-mensajes.pdf",
+      "sha256": "4a7b6c2c983c847307c21e43f0c6e73c439713372ca2d9be26d08e8f53d476d7",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "teorica 7 mensajes y canales.pdf",
+      "destino": "clases-teoricas/teorica-07-mensajes-y-canales.pdf",
+      "sha256": "6e341695b1127e0fa91dcbf3a304cdcc180939b37cb9d3a3023957d9d32e829c",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "Clase 04 - Laboratorio estructuras concurrentes.tar.gz",
+      "destino": "clases-practicas/practica-04a-laboratorio-estructuras-concurrentes.tar.gz",
+      "sha256": "55b174edbbf8e60e4f4f8d35b37e1634c7a188869db60f2d2bfb14ed085e5474",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "Laboratorio de Go-20261014.zip",
+      "destino": "clases-practicas/practica-06a-laboratorio-go-victoria-y-piramides.zip",
+      "sha256": "ce9cf3ff6c044cb9751977a54ba265877dd6dbe928dc492482bf051e84225d6e",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "clases-teoricas/teorica-memoria-transaccional-por-software.pdf",
+      "destino": "clases-teoricas/teorica-06-memoria-transaccional-por-software.pdf",
+      "sha256": "44faa399d18f14dd4172148c747973576975068755d00a65596871bf34508fc0",
+      "accion": "mover sin modificar contenido"
+    },
+    {
+      "original": "stm.pdf",
+      "destino": "clases-teoricas/teorica-06-memoria-transaccional-por-software.pdf",
+      "sha256": "44faa399d18f14dd4172148c747973576975068755d00a65596871bf34508fc0",
+      "accion": "unificar duplicado exacto"
+    },
+    {
+      "original": "Clase 04 - Laboratorio estructuras concurrentes.tar.gz::enunciado.pdf",
+      "destino": "clases-practicas/practica-04a-laboratorio-estructuras-concurrentes.pdf",
+      "sha256": "94f9fbba580cf70d71ce7433ea2aaaa8604ec7e7f8d0e4727ec78072499c7c9f",
+      "accion": "extraer enunciado sin modificarlo; conservar paquete completo"
+    }
+  ],
+  "pdf_procesados": [
+    {
+      "pdf": "practicas-de-ejercicios/guia-04a-haskell-io-y-monadas.pdf",
+      "paginas": 3,
+      "caracteres": 6069
+    },
+    {
+      "pdf": "practicas-de-ejercicios/guia-05-memoria-transaccional.pdf",
+      "paginas": 3,
+      "caracteres": 5918
+    },
+    {
+      "pdf": "practicas-de-ejercicios/guia-05a-stm-reservas-cine-york.pdf",
+      "paginas": 2,
+      "caracteres": 2358
+    },
+    {
+      "pdf": "practicas-de-ejercicios/guia-06-comunicacion-por-mensajes.pdf",
+      "paginas": 4,
+      "caracteres": 12594
+    },
+    {
+      "pdf": "practicas-de-ejercicios/guia-06a-mensajes-plataforma-streaming.pdf",
+      "paginas": 1,
+      "caracteres": 2853
+    },
+    {
+      "pdf": "practicas-de-ejercicios/parcial-01-2026-2c.pdf",
+      "paginas": 2,
+      "caracteres": 9948
+    },
+    {
+      "pdf": "practicas-de-ejercicios/modelo-de-parcial-2026-2c-soluciones.pdf",
+      "paginas": 12,
+      "caracteres": 44056
+    },
+    {
+      "pdf": "clases-practicas/practica-05-memoria-transaccional-haskell.pdf",
+      "paginas": 21,
+      "caracteres": 49088
+    },
+    {
+      "pdf": "clases-practicas/practica-06-go-y-comunicacion-por-mensajes.pdf",
+      "paginas": 28,
+      "caracteres": 22747
+    },
+    {
+      "pdf": "clases-teoricas/teorica-07-mensajes-y-canales.pdf",
+      "paginas": 40,
+      "caracteres": 21269
+    },
+    {
+      "pdf": "clases-practicas/practica-04a-laboratorio-estructuras-concurrentes.pdf",
+      "paginas": 4,
+      "caracteres": 7367
+    }
+  ]
+}

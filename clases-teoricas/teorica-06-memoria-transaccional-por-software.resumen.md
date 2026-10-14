@@ -1,20 +1,20 @@
 # Memoria transaccional por software y Haskell — resumen
 
-- Fuente: [teorica-memoria-transaccional-por-software.pdf](teorica-memoria-transaccional-por-software.pdf) (83 páginas).
-- [Transcripción completa](teorica-memoria-transaccional-por-software.transcripcion.md).
+- Fuente: [teorica-06-memoria-transaccional-por-software.pdf](teorica-06-memoria-transaccional-por-software.pdf) (83 páginas).
+- [Transcripción completa](teorica-06-memoria-transaccional-por-software.transcripcion.md).
 - Síntesis editorial basada en este PDF; no reemplaza los enunciados ni constituye una fe de erratas oficial.
 
 ## Mapa de consulta
 
 | Páginas | Contenido |
 | --- | --- |
-| [2–9](teorica-memoria-transaccional-por-software.transcripcion.md#página-2) | Motivación, bloques atómicos, aislamiento y dificultades |
-| [10–31](teorica-memoria-transaccional-por-software.transcripcion.md#página-10) | Efectos, tipos, Functor, Applicative, Monad y Maybe |
-| [32–46](teorica-memoria-transaccional-por-software.transcripcion.md#página-32) | IO, do, return, lectura/escritura y combinadores |
-| [47–53](teorica-memoria-transaccional-por-software.transcripcion.md#página-47) | IORef, carreras, forkIO y async |
-| [54–63](teorica-memoria-transaccional-por-software.transcripcion.md#página-54) | STM, TVar, atomically y composición de transferencias |
-| [64–70](teorica-memoria-transaccional-por-software.transcripcion.md#página-64) | retry, check, orElse y separación de IO |
-| [71–83](teorica-memoria-transaccional-por-software.transcripcion.md#página-71) | Buffer, estructuras STM, barbero y fumadores |
+| [2–9](teorica-06-memoria-transaccional-por-software.transcripcion.md#página-2) | Motivación, bloques atómicos, aislamiento y dificultades |
+| [10–31](teorica-06-memoria-transaccional-por-software.transcripcion.md#página-10) | Efectos, tipos, Functor, Applicative, Monad y Maybe |
+| [32–46](teorica-06-memoria-transaccional-por-software.transcripcion.md#página-32) | IO, do, return, lectura/escritura y combinadores |
+| [47–53](teorica-06-memoria-transaccional-por-software.transcripcion.md#página-47) | IORef, carreras, forkIO y async |
+| [54–63](teorica-06-memoria-transaccional-por-software.transcripcion.md#página-54) | STM, TVar, atomically y composición de transferencias |
+| [64–70](teorica-06-memoria-transaccional-por-software.transcripcion.md#página-64) | retry, check, orElse y separación de IO |
+| [71–83](teorica-06-memoria-transaccional-por-software.transcripcion.md#página-71) | Buffer, estructuras STM, barbero y fumadores |
 
 ## Núcleo de Haskell necesario
 

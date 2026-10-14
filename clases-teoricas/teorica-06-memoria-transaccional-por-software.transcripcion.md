@@ -1,6 +1,6 @@
-# teorica-memoria-transaccional-por-software — transcripción
+# teorica-06-memoria-transaccional-por-software — transcripción
 
-- Fuente: [teorica-memoria-transaccional-por-software.pdf](teorica-memoria-transaccional-por-software.pdf)
+- Fuente: [teorica-06-memoria-transaccional-por-software.pdf](teorica-06-memoria-transaccional-por-software.pdf)
 - Páginas del PDF: 83.
 - SHA-256 del PDF: `44faa399d18f14dd4172148c747973576975068755d00a65596871bf34508fc0`.
 - Tipo: transcripción textual por página, con disposición espacial conservada y referencias al original para esquemas.
@@ -9,7 +9,7 @@
 
 ## Página 1
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=1)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=1)
 
 ```text
 Memoria Transaccional por Software
@@ -18,7 +18,7 @@ Software Transactional Memories (STM)
 
 ## Página 2
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=2)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=2)
 
 ```text
 Idea Central
@@ -36,7 +36,7 @@ Idea Central
 
 ## Página 3
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=3)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=3)
 
 ```text
 Ventajas de STM
@@ -52,7 +52,7 @@ Ventajas de STM
 
 ## Página 4
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=4)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=4)
 
 ```text
 Motivación
@@ -81,7 +81,7 @@ Motivación
 
 ## Página 5
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=5)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=5)
 
 ```text
 Motivación
@@ -109,7 +109,7 @@ Motivación
 
 ## Página 6
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=6)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=6)
 
 ```text
 Problema en el uso de Locks
@@ -123,7 +123,7 @@ Problema en el uso de Locks
 
 ## Página 7
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=7)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=7)
 
 ```text
 Idea Principal e Intuición de STM
@@ -147,7 +147,7 @@ Idea Principal e Intuición de STM
 
 ## Página 8
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=8)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=8)
 
 ```text
 Idea Principal e Intuición de STM
@@ -172,7 +172,7 @@ Idea Principal e Intuición de STM
 
 ## Página 9
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=9)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=9)
 
 ```text
 Dificultad para la implementación
@@ -188,7 +188,7 @@ Dificultad para la implementación
 
 ## Página 10
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=10)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=10)
 
 ```text
 Haskell: Efectos
@@ -206,7 +206,7 @@ Haskell: Efectos
 
 ## Página 11
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=11)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=11)
 
 ```text
 ¿Cómo hace Haskell para I/O?
@@ -223,7 +223,7 @@ Haskell: Efectos
 
 ## Página 12
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=12)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=12)
 
 ```text
 ¿Cómo hace Haskell para I/O?
@@ -242,7 +242,7 @@ Haskell: Efectos
 
 ## Página 13
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=13)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=13)
 
 ```text
 Tipos monádicos: Intuición
@@ -255,7 +255,7 @@ Tipos monádicos: Intuición
 
 ## Página 14
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=14)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=14)
 
 ```text
 Tipos monádicos: Intuición
@@ -277,7 +277,7 @@ Tipos monádicos: Intuición
 
 ## Página 15
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=15)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=15)
 
 ```text
 Constructores de Tipos
@@ -291,7 +291,7 @@ Constructores de Tipos
 
 ## Página 16
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=16)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=16)
 
 ```text
 Constructores de Tipos
@@ -311,7 +311,7 @@ Constructores de Tipos
 
 ## Página 17
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=17)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=17)
 
 ```text
 Abstracción de Comportamiento: Clases de Tipos
@@ -331,7 +331,7 @@ Abstracción de Comportamiento: Clases de Tipos
 
 ## Página 18
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=18)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=18)
 
 ```text
 Abstracción de Comportamiento: Clases de Tipos
@@ -355,7 +355,7 @@ Abstracción de Comportamiento: Clases de Tipos
 
 ## Página 19
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=19)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=19)
 
 ```text
 La Clase Functor: Contenedores mapeables
@@ -381,7 +381,7 @@ class Functor f where                           -- Maybe
 
 ## Página 20
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=20)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=20)
 
 ```text
 La Clase Functor: Contenedores mapeables
@@ -408,7 +408,7 @@ class Functor f where                           -- Maybe
 
 ## Página 21
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=21)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=21)
 
 ```text
 La Clase Functor: Contenedores mapeables
@@ -436,7 +436,7 @@ class Functor f where                           -- Maybe
 
 ## Página 22
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=22)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=22)
 
 ```text
 La Clase Functor: Contenedores mapeables
@@ -464,7 +464,7 @@ class Functor f where                           -- Maybe
 
 ## Página 23
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=23)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=23)
 
 ```text
 Functores aplicativos
@@ -489,7 +489,7 @@ class Functor f = > Applicative f where       pure 5 :: Maybe Int -- Just 5
 
 ## Página 24
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=24)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=24)
 
 ```text
 Functores aplicativos
@@ -516,7 +516,7 @@ class Functor f = > Applicative f where       pure 5 :: Maybe Int -- Just 5
 
 ## Página 25
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=25)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=25)
 
 ```text
 La Definición Formal: Clase Monad
@@ -536,7 +536,7 @@ La firma en el preludio:
 
 ## Página 26
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=26)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=26)
 
 ```text
 La Definición Formal: Clase Monad
@@ -556,7 +556,7 @@ La firma en el preludio:                    • return (Inyección): Toma un
 
 ## Página 27
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=27)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=27)
 
 ```text
 El Problema: Operar a Mano con Maybe
@@ -581,7 +581,7 @@ Evaluación manual con case:                   • Obliga al programador a
 
 ## Página 28
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=28)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=28)
 
 ```text
 Manejo de Opcionalidad: La Mónada Maybe
@@ -603,7 +603,7 @@ La instancia monádica:
 
 ## Página 29
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=29)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=29)
 
 ```text
 Manejo de Opcionalidad: La Mónada Maybe
@@ -630,7 +630,7 @@ La instancia monádica:
 
 ## Página 30
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=30)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=30)
 
 ```text
 El Pipeline Monádico
@@ -653,7 +653,7 @@ Anidamiento con »=:                              ¿Cómo fluyen los datos?
 
 ## Página 31
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=31)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=31)
 
 ```text
 La Notación do
@@ -676,7 +676,7 @@ La Notación do
 
 ## Página 32
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=32)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=32)
 
 ```text
 Mónada IO (Computación imperativa)
@@ -695,7 +695,7 @@ Mónada IO (Computación imperativa)
 
 ## Página 33
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=33)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=33)
 
 ```text
 El Punto de Entrada: la función main
@@ -717,7 +717,7 @@ Función main                                -- Archivo : Main . hs
 
 ## Página 34
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=34)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=34)
 
 ```text
 Composición de Acciones: La Notación do
@@ -741,7 +741,7 @@ Composición de Acciones: La Notación do
 
 ## Página 35
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=35)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=35)
 
 ```text
 Expresión Pura vs. Acción con Efectos
@@ -764,7 +764,7 @@ Expresión Pura                          Acción con Efectos
 
 ## Página 36
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=36)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=36)
 
 ```text
 Lectura y Desempaquetado: getLine
@@ -786,7 +786,7 @@ Empaquetado:                                 Operador bind <-:
 
 ## Página 37
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=37)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=37)
 
 ```text
 Ejemplos Prácticos de Interacción
@@ -809,7 +809,7 @@ valor extraído con <- se concatena en el
 
 ## Página 38
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=38)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=38)
 
 ```text
 Errores Comunes: Mezclar Tipos Incompatibles
@@ -822,7 +822,7 @@ El contraejemplo incorrecto:
 
 ## Página 39
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=39)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=39)
 
 ```text
 Errores Comunes: Mezclar Tipos Incompatibles
@@ -842,7 +842,7 @@ El contraejemplo incorrecto:              ¿Por qué falla?
 
 ## Página 40
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=40)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=40)
 
 ```text
 Valores de Retorno y Enlaces Simbólicos
@@ -868,7 +868,7 @@ Valores de Retorno y Enlaces Simbólicos
 
 ## Página 41
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=41)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=41)
 
 ```text
 Uso de let dentro de Bloques de I/O
@@ -894,7 +894,7 @@ main = do                                     desempaqueta el resultado.
 
 ## Página 42
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=42)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=42)
 
 ```text
 Estudio de Caso: Invertir Palabras
@@ -920,7 +920,7 @@ Estudio de Caso: Invertir Palabras
 
 ## Página 43
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=43)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=43)
 
 ```text
 ¿Qué hace return?
@@ -944,7 +944,7 @@ return es el dual de <-:                  Flujo continuo sin interrupciones:
 
 ## Página 44
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=44)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=44)
 
 ```text
 Entrada y Salida: Primitivas de Datos
@@ -967,7 +967,7 @@ Primitivas esenciales:                   Ejemplo práctico:
 
 ## Página 45
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=45)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=45)
 
 ```text
 Estructuras de Control y Combinadores
@@ -991,7 +991,7 @@ Combinadores lógicos:                      Ejemplo con iteradores:
 
 ## Página 46
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=46)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=46)
 
 ```text
 Estructuras de Control y Combinadores
@@ -1015,7 +1015,7 @@ Combinadores lógicos:                      Ejemplo con iteradores:
 
 ## Página 47
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=47)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=47)
 
 ```text
 Estado Mutable en un Mundo Puro: IORef
@@ -1035,7 +1035,7 @@ Estado Mutable en un Mundo Puro: IORef
 
 ## Página 48
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=48)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=48)
 
 ```text
 Contador imperativo
@@ -1059,7 +1059,7 @@ Contador imperativo
 
 ## Página 49
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=49)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=49)
 
 ```text
 Contador imperativo
@@ -1085,7 +1085,7 @@ Contador imperativo
 
 ## Página 50
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=50)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=50)
 
 ```text
 Threads en Haskell: forkIO
@@ -1107,7 +1107,7 @@ Threads en Haskell: forkIO
 
 ## Página 51
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=51)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=51)
 
 ```text
 Demostración de Condición de Carrera con IORef
@@ -1135,7 +1135,7 @@ Demostración de Condición de Carrera con IORef
 
 ## Página 52
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=52)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=52)
 
 ```text
 Sincronización Controlada: La Librería async
@@ -1160,7 +1160,7 @@ Abstracción de alto nivel:              import Control . Concurrent . Async
 
 ## Página 53
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=53)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=53)
 
 ```text
 Demostración de Condición de Carrera con IORef
@@ -1191,7 +1191,7 @@ Demostración de Condición de Carrera con IORef
 
 ## Página 54
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=54)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=54)
 
 ```text
 STM y el Tipo IO
@@ -1209,7 +1209,7 @@ Para usarla de la siguiente forma:
 
 ## Página 55
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=55)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=55)
 
 ```text
 STM y el Tipo IO
@@ -1232,7 +1232,7 @@ Para usarla de la siguiente forma:                 forkIO ( atomic ( incRef r ) 
 
 ## Página 56
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=56)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=56)
 
 ```text
 Tipos para Atomicidad (STM)
@@ -1258,7 +1258,7 @@ Tipos para Atomicidad (STM)
 
 ## Página 57
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=57)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=57)
 
 ```text
 Tipos para Atomicidad (STM)
@@ -1283,7 +1283,7 @@ Tipos para Atomicidad (STM)
 
 ## Página 58
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=58)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=58)
 
 ```text
 Contador atómico STM
@@ -1308,7 +1308,7 @@ Contador atómico STM
 
 ## Página 59
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=59)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=59)
 
 ```text
 Contador atómico STM
@@ -1339,7 +1339,7 @@ main = do
 
 ## Página 60
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=60)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=60)
 
 ```text
 Composicionalidad
@@ -1362,7 +1362,7 @@ Composicionalidad
 
 ## Página 61
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=61)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=61)
 
 ```text
 Incremento transaccional
@@ -1389,7 +1389,7 @@ Incremento transaccional
 
 ## Página 62
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=62)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=62)
 
 ```text
 Cuenta bancaria como STM
@@ -1416,7 +1416,7 @@ Cuenta bancaria como STM
 
 ## Página 63
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=63)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=63)
 
 ```text
 Haciendo una transferencia
@@ -1438,7 +1438,7 @@ Haciendo una transferencia
 
 ## Página 64
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=64)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=64)
 
 ```text
 Control de Condiciones: El Operador retry
@@ -1459,7 +1459,7 @@ Operador retry :: STM a
 
 ## Página 65
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=65)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=65)
 
 ```text
 Control de Condiciones: El Operador retry
@@ -1483,7 +1483,7 @@ Operador retry :: STM a                Control de saldo suficiente:
 
 ## Página 66
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=66)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=66)
 
 ```text
 La Función check
@@ -1504,7 +1504,7 @@ La Función check
 
 ## Página 67
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=67)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=67)
 
 ```text
 Ejemplo de Sincronización con Retardo
@@ -1528,7 +1528,7 @@ Ejemplo de Sincronización con Retardo
 
 ## Página 68
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=68)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=68)
 
 ```text
 Composición Alternativa con orElse
@@ -1551,7 +1551,7 @@ Composición Alternativa con orElse
 
 ## Página 69
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=69)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=69)
 
 ```text
 Composición Alternativa y Orquestación con orElse
@@ -1574,7 +1574,7 @@ Composición Alternativa y Orquestación con orElse
 
 ## Página 70
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=70)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=70)
 
 ```text
 Garantía de Tipos en STM
@@ -1600,7 +1600,7 @@ Garantía de Tipos en STM
 
 ## Página 71
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=71)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=71)
 
 ```text
 Caso de Estudio: Un Buffer Transaccional
@@ -1617,7 +1617,7 @@ Caso de Estudio: Un Buffer Transaccional
 
 ## Página 72
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=72)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=72)
 
 ```text
 Caso de Estudio: Un Buffer Transaccional
@@ -1642,7 +1642,7 @@ Caso de Estudio: Un Buffer Transaccional
 
 ## Página 73
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=73)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=73)
 
 ```text
 Productores y Consumidores sobre el Buffer
@@ -1671,7 +1671,7 @@ Productores y Consumidores sobre el Buffer
 
 ## Página 74
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=74)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=74)
 
 ```text
 Algunas clases de STM
@@ -1688,11 +1688,11 @@ Algunas clases de STM
       TArray       Fija Indexada     No
 ```
 
-**Información gráfica:** [consultar el diagrama o tabla de la página 74](teorica-memoria-transaccional-por-software.pdf#page=74). Las flechas, posiciones, colores y marcas no se reconstruyen completamente con texto plano.
+**Información gráfica:** [consultar el diagrama o tabla de la página 74](teorica-06-memoria-transaccional-por-software.pdf#page=74). Las flechas, posiciones, colores y marcas no se reconstruyen completamente con texto plano.
 
 ## Página 75
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=75)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=75)
 
 ```text
 El Problema del Barbero Durmiente
@@ -1710,7 +1710,7 @@ El Problema del Barbero Durmiente
 
 ## Página 76
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=76)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=76)
 
 ```text
 El Barbero en STM
@@ -1735,7 +1735,7 @@ El Barbero en STM
 
 ## Página 77
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=77)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=77)
 
 ```text
 Lógica de Sincronización del Barbero y Clientes
@@ -1761,7 +1761,7 @@ Lógica de Sincronización del Barbero y Clientes
 
 ## Página 78
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=78)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=78)
 
 ```text
 El Ciclo de Trabajo Concurrente
@@ -1791,7 +1791,7 @@ El Ciclo de Trabajo Concurrente
 
 ## Página 79
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=79)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=79)
 
 ```text
 Fumadores de Cigarrillos
@@ -1809,7 +1809,7 @@ Fumadores de Cigarrillos
 
 ## Página 80
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=80)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=80)
 
 ```text
 Problema de los Fumadores: Estructura de datos
@@ -1831,7 +1831,7 @@ Problema de los Fumadores: Estructura de datos
 
 ## Página 81
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=81)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=81)
 
 ```text
 Problema de los Fumadores: Fumadores
@@ -1860,7 +1860,7 @@ fumador n m ing1 ing2 = floop
 
 ## Página 82
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=82)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=82)
 
 ```text
 Problema de los Fumadores: Agente
@@ -1888,7 +1888,7 @@ Problema de los Fumadores: Agente
 
 ## Página 83
 
-[Ver página original](teorica-memoria-transaccional-por-software.pdf#page=83)
+[Ver página original](teorica-06-memoria-transaccional-por-software.pdf#page=83)
 
 ```text
 Problema de los Fumadores: Principal
