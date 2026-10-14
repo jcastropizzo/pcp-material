@@ -8,7 +8,7 @@ Este repositorio reúne material de estudio, transcripciones, resúmenes y soluc
 
 Usás este material bajo tu responsabilidad. No me hago responsable de las decisiones, acciones o resultados derivados de su uso, incluidos errores en trabajos, entregas o exámenes. No hay garantía de exactitud ni de aprobar por estudiar con esto.
 
-**En criollo: si estudiás con esto y te va mal, jodete. Contrastá las respuestas y no confíes a ciegas.**
+**En criollo: si estudiás con esto y te va mal, jodete.**
 
 ## Cómo usar el repositorio
 
