@@ -2,6 +2,14 @@
 
 Material de PCP de Ciencias de la Computación, FCEyN–UBA: guías de ejercicios, clases prácticas, teóricas, laboratorios y evaluaciones. Cada material tiene su original, una transcripción en Markdown y un resumen; las guías también tienen soluciones de estudio separadas.
 
+## Uso bajo tu responsabilidad
+
+Este repositorio reúne material de estudio, transcripciones, resúmenes y soluciones que pueden contener errores u omisiones. Los derivados incluyen contenido generado con asistencia de IA y no reemplazan el material oficial ni la verificación propia.
+
+Usás este material bajo tu responsabilidad. No me hago responsable de las decisiones, acciones o resultados derivados de su uso, incluidos errores en trabajos, entregas o exámenes. No hay garantía de exactitud ni de aprobar por estudiar con esto.
+
+**En criollo: si estudiás con esto y te va mal, jodete. Contrastá las respuestas y no confíes a ciegas.**
+
 ## Cómo usar el repositorio
 
 1. **Resumen:** localizar conceptos, ejercicios y páginas relevantes.
