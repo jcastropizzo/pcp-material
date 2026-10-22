@@ -1,6 +1,6 @@
 # Programación Concurrente y Paralela — material de estudio
 
-Material de PCP de Ciencias de la Computación, FCEyN–UBA: guías de ejercicios, clases prácticas, teóricas, laboratorios y evaluaciones. Cada material tiene su original, una transcripción en Markdown y un resumen; las guías también tienen soluciones de estudio separadas.
+Material de PCP de Ciencias de la Computación, FCEyN–UBA: guías de ejercicios, clases prácticas, teóricas, laboratorios, trabajos prácticos y evaluaciones. Cada material tiene su original, una transcripción en Markdown y un resumen; las guías también tienen soluciones de estudio separadas.
 
 ## Uso bajo tu responsabilidad
 
@@ -34,6 +34,14 @@ Los complementos con sufijo `a` se ubican después del número correspondiente: 
 | 05a | STM: reservas de Cine York | [PDF](practicas-de-ejercicios/guia-05a-stm-reservas-cine-york.pdf) | [Texto](practicas-de-ejercicios/guia-05a-stm-reservas-cine-york.transcripcion.md) | [Resumen](practicas-de-ejercicios/guia-05a-stm-reservas-cine-york.resumen.md) | [Solución](practicas-de-ejercicios/guia-05a-stm-reservas-cine-york_resuelto.md) |
 | 06 | Comunicación por mensajes | [PDF](practicas-de-ejercicios/guia-06-comunicacion-por-mensajes.pdf) | [Texto](practicas-de-ejercicios/guia-06-comunicacion-por-mensajes.transcripcion.md) | [Resumen](practicas-de-ejercicios/guia-06-comunicacion-por-mensajes.resumen.md) | [Solución](practicas-de-ejercicios/guia-06-comunicacion-por-mensajes_resuelto.md) |
 | 06a | Mensajes: plataforma de streaming | [PDF](practicas-de-ejercicios/guia-06a-mensajes-plataforma-streaming.pdf) | [Texto](practicas-de-ejercicios/guia-06a-mensajes-plataforma-streaming.transcripcion.md) | [Resumen](practicas-de-ejercicios/guia-06a-mensajes-plataforma-streaming.resumen.md) | [Solución](practicas-de-ejercicios/guia-06a-mensajes-plataforma-streaming_resuelto.md) |
+
+## Trabajos prácticos
+
+| Orden | Tema | Original | Transcripción | Resumen |
+| --- | --- | --- | --- | --- |
+| 01 | Base de datos key-value replicada en Erlang | [PDF](trabajos-practicos/tp-01-kv-replicado-erlang.pdf) | [Texto](trabajos-practicos/tp-01-kv-replicado-erlang.transcripcion.md) | [Resumen](trabajos-practicos/tp-01-kv-replicado-erlang.resumen.md) |
+
+El TP incluye API fija, replicación asincrónica, conflictos, TTL, desalojo, consultas remotas, tests y documento de diseño. La fecha impresa en su consigna es **11/11/2026 a las 23:59**. Los derivados contienen transcripción y análisis de requisitos, no una solución implementada.
 
 ## Clases prácticas y laboratorios
 
@@ -80,6 +88,7 @@ El parcial real tiene transcripción y resumen, pero no una corrección propia. 
 | --- | --- |
 | `practicas-de-ejercicios/` | Guías, ejercicios complementarios, parciales y modelos. |
 | `clases-practicas/` | Apuntes de práctica, diapositivas y paquetes de laboratorio. |
+| `trabajos-practicos/` | Consignas de TP, transcripciones y análisis de requisitos. |
 | `clases-teoricas/` | Diapositivas teóricas. |
 | `Y.pdf` | Documento original, conservado sin modificar. |
 | `Y.transcripcion.md` | Texto por página; en laboratorios, también archivos fuente y plantillas. |
@@ -87,7 +96,7 @@ El parcial real tiene transcripción y resumen, pero no una corrección propia. 
 | `Y_resuelto.md` | Solución de estudio, con código o pseudocódigo, justificaciones y supuestos. |
 | [catalogo/](catalogo/) | Registros técnicos de clasificación, integridad y verificación; no hace falta consultarlos para estudiar. |
 
-El repositorio contiene **26 PDF (1.038 páginas), dos paquetes de laboratorio, 27 transcripciones, 27 resúmenes y nueve archivos de soluciones de guías**. El laboratorio de estructuras comparte derivados con su enunciado; el laboratorio Go tiene derivados propios.
+El repositorio contiene **27 PDF (1.044 páginas), dos paquetes de laboratorio, 28 transcripciones, 28 resúmenes y nueve archivos de soluciones de guías**. El laboratorio de estructuras comparte derivados con su enunciado; el laboratorio Go tiene derivados propios.
 
 ## Alcance y verificación
 
