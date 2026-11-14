@@ -1,0 +1,98 @@
+{
+  "incorporados": [
+    {
+      "original": "ejercicio-streamer.pdf",
+      "destino": "practicas-de-ejercicios/guia-06a-mensajes-plataforma-streaming-2026-2c.pdf",
+      "sha256": "5602ee5dc0b5792305f680a9f96731414066a8b2581543f7a9b897191b1ea96a",
+      "paginas": 1
+    },
+    {
+      "original": "ejercicio-streamer-soluciones.pdf",
+      "destino": "practicas-de-ejercicios/guia-06a-mensajes-plataforma-streaming-2026-2c-soluciones.pdf",
+      "sha256": "be8c8bdb966c0ab4abd2546a873cf8642e2e7fabfd6a9d9ee74f5c301ad2dc9e",
+      "paginas": 6
+    },
+    {
+      "original": "07-Logica.pdf",
+      "destino": "practicas-de-ejercicios/guia-07-logica-para-modelado-de-concurrencia.pdf",
+      "sha256": "8b219741f36e1d810901a11d92f3b0a87c584397dea513186695b2ac3c5e7a08",
+      "paginas": 5
+    },
+    {
+      "original": "08-Paralelismo.pdf",
+      "destino": "practicas-de-ejercicios/guia-08-computo-paralelo.pdf",
+      "sha256": "54bdf5e437080176a7dcedc02f767c5c25c5f12add3b4c4fe301edcc25207845",
+      "paginas": 3
+    },
+    {
+      "original": "apunte-logicas.pdf",
+      "destino": "clases-practicas/practica-07-modelos-y-logica.pdf",
+      "sha256": "bd281b78a7ab556c4670246cd4287007b9415766e6e96ee6221e38351ffaf339",
+      "paginas": 27
+    },
+    {
+      "original": "servidor-seleccion.pdf",
+      "destino": "clases-practicas/practica-07a-servidor-seleccion.pdf",
+      "sha256": "a185fbf3b435aff7b973f88a6049a6f23d789ac68508a98eaf98b8b4559c3f5c",
+      "paginas": 10
+    },
+    {
+      "original": "clase-08.pdf",
+      "destino": "clases-practicas/practica-08-analisis-de-algoritmos-paralelos.pdf",
+      "sha256": "5fae62d26d6713b0a5020a1749fd042a353b050dc9686dcf03c0df2193a7a369",
+      "paginas": 70
+    },
+    {
+      "original": "clase 8 actores.pdf",
+      "destino": "clases-teoricas/teorica-08-modelo-de-actores.pdf",
+      "sha256": "ea01d4aae0362b734cfe59371caccab33b4c199df0fe84f5e27e562deac3269c",
+      "paginas": 77
+    },
+    {
+      "original": "Clase-09-LTS-Logicas.pdf",
+      "destino": "clases-teoricas/teorica-09-lts-y-logicas.pdf",
+      "sha256": "d9b2937b100e9604fa575e9c583fbd0ebd4b3974ed7084988cedba6057c788f6",
+      "paginas": 59
+    },
+    {
+      "original": "clase10-paralelismo.pdf",
+      "destino": "clases-teoricas/teorica-10-computo-paralelo.pdf",
+      "sha256": "b0ff7e042a37f1e2389b0fc94eb863db9674e7bbb383e274003429e58baebb2b",
+      "paginas": 62
+    },
+    {
+      "original": "examen_simulacro_2.pdf",
+      "destino": "practicas-de-ejercicios/modelo-segundo-parcial-2026-2c.pdf",
+      "sha256": "6ee9aba7ac46dac53ddbfc4c52f26d0bcecf207516804bcda898baece96c3fe8",
+      "paginas": 3
+    },
+    {
+      "original": "examen_simulacro2-soluciones.pdf",
+      "destino": "practicas-de-ejercicios/modelo-segundo-parcial-2026-2c-soluciones.pdf",
+      "sha256": "37713392c72bc6295fba715e19e82d8829f8434306828cd0f32420b935a18257",
+      "paginas": 10
+    }
+  ],
+  "duplicados": [
+    {
+      "original": "05-STM.pdf",
+      "destino_existente": "practicas-de-ejercicios/guia-05-memoria-transaccional.pdf",
+      "sha256": "f91edd018523adf147763c4c552ee6c52b541bc55e7ed21fdc6d42461e1feab1"
+    },
+    {
+      "original": "05.0-Haskell.pdf",
+      "destino_existente": "practicas-de-ejercicios/guia-04a-haskell-io-y-monadas.pdf",
+      "sha256": "06a8d1bf242d769e626a8f58447d7ea1a2c599d2680ded1391cf5a911bff210a"
+    },
+    {
+      "original": "06-Mensaje.pdf",
+      "destino_existente": "practicas-de-ejercicios/guia-06-comunicacion-por-mensajes.pdf",
+      "sha256": "18e0ddc25551ebc82d9284ae913bf14e8f12a302c146b75d21a49a68b8af5b10"
+    },
+    {
+      "original": "ejercicio ctm cine.pdf",
+      "destino_existente": "practicas-de-ejercicios/guia-05a-stm-reservas-cine-york.pdf",
+      "sha256": "24e917b6d23dc4ded3164c472cff9e6e855ba9a96a7fdec6f1df5c1574b836cd"
+    }
+  ]
+}
